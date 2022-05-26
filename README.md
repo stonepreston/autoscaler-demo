@@ -2,7 +2,7 @@
 This repository houses the scripted demo of the [Kubernetes Autoscaler Charm](https://charmhub.io/kubernetes-autoscaler). It also houses the mocks used to supply command output. 
 
 ## Cloning the repo
-[demo-magic](https://github.com/paxtonhare/demo-magic) is included as a gitsubmodule. Ensure you clone recursively:
+[demo-magic](https://github.com/paxtonhare/demo-magic) is included as a git submodule. Ensure you clone recursively:
 ```
 git clone --recurse-submodules https://github.com/stonepreston/autoscaler-demo.git
 ```
