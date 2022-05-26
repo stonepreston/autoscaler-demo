@@ -1,0 +1,3 @@
+Clouds available on the controller:
+Cloud         Regions  Default  Type
+my-k8s-cloud  1        default  k8s

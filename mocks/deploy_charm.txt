@@ -1,0 +1,2 @@
+Located charm "kubernetes-autoscaler" in charm-hub, revision 18
+Deploying "kubernetes-autoscaler" from charm-hub charm "kubernetes-autoscaler", revision 18 in channel stable on focal

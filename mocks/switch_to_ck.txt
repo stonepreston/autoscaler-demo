@@ -1,0 +1,1 @@
+my-controller:admin/my-autoscaler-model -> my-controller:admin/my-ck-model

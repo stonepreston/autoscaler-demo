@@ -1,0 +1,20 @@
+Running on subnets:  10.246.154.100/8  
+ Utilizing ports:    2379/tcp, 443/tcp, 6443/tcp, 
+                     80/tcp  
+               # Machines:  (11)
+                  started:   11 
+                          
+                  # Units:  (21)
+                   active:   21 
+                          
+           # Applications:  (8)
+                    calico  0/1  exposed
+                containerd  0/1  exposed
+                   easyrsa  0/1  exposed
+                      etcd  0/1  exposed
+     kubeapi-load-balancer  1/1  exposed
+  kubernetes-control-plane  0/1  exposed
+         kubernetes-worker  1/1  exposed
+        vsphere-integrator  0/1  exposed
+                          
+                 # Remote:  (0)

@@ -1,0 +1,8 @@
+Model                Controller     Cloud/Region          Version  SLA          Timestamp
+my-autoscaler-model  my-controller  my-k8s-cloud/default  2.9.29   unsupported  15:11:33-05:00
+
+App                    Version  Status   Scale  Charm                  Channel  Rev  Address         Exposed  Message
+kubernetes-autoscaler  ...      waiting      1  kubernetes-autoscaler  stable    18  10.152.183.234  no       waiting for units settled down
+
+Unit                      Workload  Agent  Address       Ports  Message
+kubernetes-autoscaler/0*  blocked   idle   192.168.1.67         Waiting for Juju Configuration

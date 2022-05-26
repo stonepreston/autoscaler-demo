@@ -1,0 +1,1 @@
+Added 'my-autoscaler-model' model on my-k8s-cloud/default with credential 'my-k8s-cloud' for user 'admin'

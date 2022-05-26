@@ -1,0 +1,4 @@
+{"name":"admin/controller","model-uuid":"2d391de5-c046-4db0-8789-7bbb7baeaff6"}
+{"name":"admin/default","model-uuid":"f5b7f8d3-e4be-49ca-8e64-fb810268c713"}
+{"name":"admin/my-autoscaler-model","model-uuid":"9bbec797-56cf-49f9-8f68-faac6ca8a3ba"}
+{"name":"admin/my-ck-model","model-uuid":"5b528792-69c1-4fbc-8e24-8edabf4b297a"}

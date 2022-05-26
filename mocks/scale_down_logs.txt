@@ -1,0 +1,9 @@
+2022-05-26T14:16:16.118Z [juju-autoscaler] I0526 14:16:16.118846      27 static_autoscaler.go:547] Starting scale down
+2022-05-26T14:16:16.118Z [juju-autoscaler] I0526 14:16:16.118938      27 scale_down.go:828] juju-2a79be-7 was unneeded for 1m0.942078728s
+2022-05-26T14:16:16.118Z [juju-autoscaler] I0526 14:16:16.118958      27 scale_down.go:828] juju-2a79be-8 was unneeded for 1m0.942078728s
+2022-05-26T14:16:16.119Z [juju-autoscaler] I0526 14:16:16.119018      27 scale_down.go:1102] Scale-down: removing empty node juju-2a79be-7
+2022-05-26T14:16:16.119Z [juju-autoscaler] I0526 14:16:16.119333      27 event_sink_logging_wrapper.go:48] Event(v1.ObjectReference{Kind:"ConfigMap", Namespace:"my-autoscaler-model", Name:"cluster-autoscaler-status", UID:"cec5f480-3c14-440f-a1a5-3b5a3232b23b", APIVersion:"v1", ResourceVersion:"3107", FieldPath:""}): type: 'Normal' reason: 'ScaleDownEmpty' Scale-down: removing empty node juju-2a79be-7
+2022-05-26T14:16:16.139Z [juju-autoscaler] I0526 14:16:16.139005      27 delete.go:103] Successfully added ToBeDeletedTaint on node juju-2a79be-7
+2022-05-26T14:16:16.139Z [juju-autoscaler] I0526 14:16:16.139170      27 scale_down.go:1102] Scale-down: removing empty node juju-2a79be-8
+2022-05-26T14:16:16.174Z [juju-autoscaler] I0526 14:16:16.173759      27 delete.go:103] Successfully added ToBeDeletedTaint on node juju-2a79be-8
+2022-05-26T14:16:16.317Z [juju-autoscaler] I0526 14:16:16.317065      27 juju_manager.go:123] unit kubernetes-worker/0 state changed to InstanceDeleting

@@ -1,0 +1,5 @@
+node/juju-4b297a-5 untainted
+node/juju-4b297a-6 untainted
+error: taint "juju.is/kubernetes-control-plane:NoSchedule" not found
+error: taint "juju.is/kubernetes-control-plane:NoSchedule" not found
+error: taint "juju.is/kubernetes-control-plane:NoSchedule" not found

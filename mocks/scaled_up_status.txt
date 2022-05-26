@@ -1,0 +1,5 @@
+- kubernetes-worker/2: 10.246.154.111 (agent:idle, workload:active) 80/tcp, 443/tcp
+  - calico/2: 10.246.154.111 (agent:idle, workload:active)
+  - containerd/2: 10.246.154.111 (agent:idle, workload:active)
+- kubernetes-worker/3: 10.246.154.22 (agent:executing, workload:maintenance)
+- kubernetes-worker/4: 10.246.154.131 (agent:executing, workload:maintenance)
